@@ -1,0 +1,8 @@
+Metric,Value
+Original connection rows,25571
+Clean connection rows,25571
+Duplicate connection rows removed,0
+Unique nodes in connections,1005
+Department label rows,1005
+Unique departments,42
+Nodes missing department labels,0

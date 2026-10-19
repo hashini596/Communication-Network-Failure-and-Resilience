@@ -1,0 +1,13 @@
+Metric,Value
+Number of nodes,1005.0
+Directed edges,25571.0
+Undirected edges,16706.0
+Directed graph density,0.025342411448732432
+Undirected graph density,0.03311331787278746
+Average in-degree,25.443781094527363
+Average out-degree,25.443781094527363
+Average undirected degree,33.245771144278606
+Number of connected components,20.0
+Largest connected component size,986.0
+Largest component percentage,98.1094527363184
+Number of departments,42.0

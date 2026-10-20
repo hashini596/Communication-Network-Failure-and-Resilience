@@ -1,0 +1,5 @@
+strategy,resilience_auc_0_to_50_percent,interpretation
+Random (20-run average),0.35874751243781106,Higher AUC indicates greater retained connectivity
+Degree-based,0.2986318407960199,Higher AUC indicates greater retained connectivity
+Department-aware,0.2834577114427861,Higher AUC indicates greater retained connectivity
+Betweenness-based,0.2814925373134328,Higher AUC indicates greater retained connectivity

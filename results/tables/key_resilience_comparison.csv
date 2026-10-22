@@ -1,0 +1,21 @@
+strategy,removal_percent,largest_component_fraction
+Betweenness-based,10.0,0.8079601990049752
+Degree-based,10.0,0.8278606965174129
+Department-aware,10.0,0.8119402985074626
+Random (20-run average),10.0,0.874776119402985
+Betweenness-based,20.0,0.6348258706467662
+Degree-based,20.0,0.6746268656716418
+Department-aware,20.0,0.6527363184079602
+Random (20-run average),20.0,0.768955223880597
+Betweenness-based,30.0,0.4985074626865671
+Degree-based,30.0,0.536318407960199
+Department-aware,30.0,0.5004975124378109
+Random (20-run average),30.0,0.6634825870646767
+Betweenness-based,40.0,0.3343283582089552
+Degree-based,40.0,0.3741293532338308
+Department-aware,40.0,0.3273631840796019
+Random (20-run average),40.0,0.5611940298507463
+Betweenness-based,50.0,0.0298507462686567
+Degree-based,50.0,0.1343283582089552
+Department-aware,50.0,0.1024875621890547
+Random (20-run average),50.0,0.4586567164179104

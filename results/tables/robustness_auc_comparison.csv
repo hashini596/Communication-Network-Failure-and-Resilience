@@ -1,0 +1,5 @@
+strategy,resilience_auc
+Betweenness-based,0.2814925373134328
+Department-aware,0.2834577114427861
+Combined ranking,0.30206467661691544
+Cross-fraction,0.34995024875621894

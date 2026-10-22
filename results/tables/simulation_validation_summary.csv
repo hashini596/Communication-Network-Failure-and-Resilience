@@ -1,0 +1,5 @@
+strategy,number_of_measurements,minimum_lcc_fraction,maximum_lcc_fraction
+Betweenness-based,11,0.0298507462686567,0.981094527363184
+Degree-based,11,0.1343283582089552,0.981094527363184
+Department-aware,11,0.1024875621890547,0.981094527363184
+Random (20-run average),11,0.4586567164179104,0.981094527363184
